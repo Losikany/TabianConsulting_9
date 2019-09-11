@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "712215041552",
+    "firebase_url": "https://tabianconsultantcloudmessaging.firebaseio.com",
+    "project_id": "tabianconsultantcloudmessaging",
+    "storage_bucket": "tabianconsultantcloudmessaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712215041552:android:6c62cadce60b5e478b1c95",
+        "android_client_info": {
+          "package_name": "courses.pluralsight.com.tabiancon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712215041552-t966vf0au3qk9bt08d49unv2adpbo2qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtIqLEj7W1lqVfYffSr2HVuA8rpYEEiCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712215041552-t966vf0au3qk9bt08d49unv2adpbo2qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
